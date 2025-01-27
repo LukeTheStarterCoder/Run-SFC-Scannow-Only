@@ -1,0 +1,3 @@
+Run this as Administrator or it will not work, and I am making this free and open source and putting it under the GNU V3.0, I am not making it closed, you are free to edit it, and publish it to your needs. If you do got questions, please contact me.
+
+This is a work in progress file.
